@@ -1,0 +1,12 @@
+{
+    "Logistic Regression": {
+        "Dative Alternation for ARG1": 30.77,
+        "Dative Alternation for ARG2": 84.62,
+        "Causative-Incohative Alternation ARG1": 77.78
+    },
+    "BERT": {
+        "Dative Alternation for ARG1": 7.69,
+        "Dative Alternation for ARG2": 7.69,
+        "Causative-Incohative Alternation ARG1": 0.0
+    }
+}

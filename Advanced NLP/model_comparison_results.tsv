@@ -1,0 +1,118 @@
+sentence_number	token	bert_prediction	logreg_prediction	gold_label	capability	checked_arg	invariance
+1	book	ARG1	ARG1	ARG1	Dative Alternation for ARG1	ARG1 and PP	yes
+2	money	ARG1	O	ARG1	Dative Alternation for ARG1	ARG1 and PP	yes
+3	reward	ARG1	ARG2	ARG1	Dative Alternation for ARG1	ARG1 and PP	yes
+4	seat	ARG1	ARG1	ARG1	Dative Alternation for ARG1	ARG1 and PP	yes
+5	secret	ARG2	ARG2	ARG1	Dative Alternation for ARG1	ARG1 and PP	yes
+6	photo	ARG1	ARG1	ARG1	Dative Alternation for ARG1	ARG1 and PP	yes
+7	postcard	ARG1	ARG1	ARG1	Dative Alternation for ARG1	ARG1 and PP	yes
+8	documents	ARG1	ARG1	ARG1	Dative Alternation for ARG1	ARG1 and PP	yes
+9	ball	ARG1	ARG1	ARG1	Dative Alternation for ARG1	ARG1 and PP	yes
+10	keys	ARG1	ARG1	ARG1	Dative Alternation for ARG1	ARG1 and PP	yes
+11	glass	ARG1	ARG1	ARG1	Dative Alternation for ARG1	ARG1 and PP	yes
+12	report	ARG1	ARG1	ARG1	Dative Alternation for ARG1	ARG1 and PP	yes
+13	contract	ARG1	ARG1	ARG1	Dative Alternation for ARG1	ARG1 and PP	yes
+1	book	ARG1	ARG1	ARG1	Dative Alternation for ARG1	ARG1 and Dative	yes
+2	money	ARG1	O	ARG1	Dative Alternation for ARG1	ARG1 and Dative	yes
+3	reward	ARG1	ARG2	ARG1	Dative Alternation for ARG1	ARG1 and Dative	yes
+4	seat	ARG1	ARG1	ARG1	Dative Alternation for ARG1	ARG1 and Dative	yes
+5	secret	ARG1	ARG2	ARG1	Dative Alternation for ARG1	ARG1 and Dative	yes
+6	photo	ARG1	ARG1	ARG1	Dative Alternation for ARG1	ARG1 and Dative	yes
+7	postcard	ARG1	ARG1	ARG1	Dative Alternation for ARG1	ARG1 and Dative	yes
+8	documents	ARG1	ARG1	ARG1	Dative Alternation for ARG1	ARG1 and Dative	yes
+9	ball	ARG1	O	ARG1	Dative Alternation for ARG1	ARG1 and Dative	yes
+10	keys	ARG1	ARG1	ARG1	Dative Alternation for ARG1	ARG1 and Dative	yes
+11	glass	ARG1	ARG1	ARG1	Dative Alternation for ARG1	ARG1 and Dative	yes
+12	report	ARG1	ARG1	ARG1	Dative Alternation for ARG1	ARG1 and Dative	yes
+13	contract	ARG1	ARG1	ARG1	Dative Alternation for ARG1	ARG1 and Dative	yes
+1	friend	ARG2	ARG2	ARG2	Dative Alternation for ARG2	ARG2-PP	yes
+2	brother	ARG2	O	ARG2	Dative Alternation for ARG2	ARG2-PP	yes
+3	her	ARG2	ARG2	ARG2	Dative Alternation for ARG2	ARG2-PP	yes
+4	guest	ARG2	O	ARG2	Dative Alternation for ARG2	ARG2-PP	yes
+5	friend	ARG2	O	ARG2	Dative Alternation for ARG2	ARG2-PP	yes
+6	mother	ARG2	O	ARG2	Dative Alternation for ARG2	ARG2-PP	yes
+7	parents	ARG2	ARG2	ARG2	Dative Alternation for ARG2	ARG2-PP	yes
+8	boss	ARG2	ARG2	ARG2	Dative Alternation for ARG2	ARG2-PP	yes
+9	friend	ARG2	ARG2	ARG2	Dative Alternation for ARG2	ARG2-PP	yes
+10	him	ARG2	O	ARG2	Dative Alternation for ARG2	ARG2-PP	yes
+11	her	ARG2	ARG2	ARG2	Dative Alternation for ARG2	ARG2-PP	yes
+12	her	ARG2	ARG2	ARG2	Dative Alternation for ARG2	ARG2-PP	yes
+13	client	ARG2	O	ARG2	Dative Alternation for ARG2	ARG2-PP	yes
+1	friend	ARG2	ARG2	ARG2	Dative Alternation for ARG2	ARG2-Dative	yes
+2	brother	ARG2	O	ARG2	Dative Alternation for ARG2	ARG2-Dative	yes
+3	her	ARG2	O	ARG2	Dative Alternation for ARG2	ARG2-Dative	yes
+4	guest	ARG2	O	ARG2	Dative Alternation for ARG2	ARG2-Dative	yes
+5	friend	ARG2	ARG2	ARG2	Dative Alternation for ARG2	ARG2-Dative	yes
+6	mother	ARG2	ARG2	ARG2	Dative Alternation for ARG2	ARG2-Dative	yes
+7	parents	ARG2	ARG2	ARG2	Dative Alternation for ARG2	ARG2-Dative	yes
+8	boss	ARG2	ARG1	ARG2	Dative Alternation for ARG2	ARG2-Dative	yes
+9	friend	ARG1	ARG1	ARG2	Dative Alternation for ARG2	ARG2-Dative	yes
+10	him	ARG2	O	ARG2	Dative Alternation for ARG2	ARG2-Dative	yes
+11	her	ARG2	O	ARG2	Dative Alternation for ARG2	ARG2-Dative	yes
+12	her	ARG2	O	ARG2	Dative Alternation for ARG2	ARG2-Dative	yes
+13	client	ARG2	ARG1	ARG2	Dative Alternation for ARG2	ARG2-Dative	yes
+1	butter	ARG1	ARG1	ARG1	Causative-Incohative Alternation ARG1	Causative-ARG1	yes
+2	window	ARG1	ARG1	ARG1	Causative-Incohative Alternation ARG1	Causative-ARG1	yes
+3	system	ARG1	ARG1	ARG1	Causative-Incohative Alternation ARG1	Causative-ARG1	yes
+4	water	ARG1	O	ARG1	Causative-Incohative Alternation ARG1	Causative-ARG1	yes
+5	building	ARG1	O	ARG1	Causative-Incohative Alternation ARG1	Causative-ARG1	yes
+6	cap	ARG1	O	ARG1	Causative-Incohative Alternation ARG1	Causative-ARG1	yes
+7	substance	ARG1	O	ARG1	Causative-Incohative Alternation ARG1	Causative-ARG1	yes
+8	product	ARG1	ARG1	ARG1	Causative-Incohative Alternation ARG1	Causative-ARG1	yes
+9	sculpture	ARG1	O	ARG1	Causative-Incohative Alternation ARG1	Causative-ARG1	yes
+1	butter	ARG1	O	ARG1	Causative-Incohative Alternation ARG1	Inchoative-ARG1	yes
+2	window	ARG1	ARG1	ARG1	Causative-Incohative Alternation ARG1	Inchoative-ARG1	yes
+3	system	ARG1	ARG1	ARG1	Causative-Incohative Alternation ARG1	Inchoative-ARG1	yes
+4	water	ARG1	O	ARG1	Causative-Incohative Alternation ARG1	Inchoative-ARG1	yes
+5	building	ARG1	O	ARG1	Causative-Incohative Alternation ARG1	Inchoative-ARG1	yes
+6	cap	ARG1	O	ARG1	Causative-Incohative Alternation ARG1	Inchoative-ARG1	yes
+7	substance	ARG1	O	ARG1	Causative-Incohative Alternation ARG1	Inchoative-ARG1	yes
+8	product	ARG1	ARG0	ARG1	Causative-Incohative Alternation ARG1	Inchoative-ARG1	yes
+9	sculpture	ARG1	O	ARG1	Causative-Incohative Alternation ARG1	Inchoative-ARG1	yes
+1	cities	ARG1	ARG1	ARG1	Movement/Stative Verbs for ARG1	ARG1	no
+2	spine	ARGM-MNR	ARGM-MNR	ARG1	Movement/Stative Verbs for ARG1	ARG1	no
+3	foreign	ARG0	O	ARG1	Movement/Stative Verbs for ARG1	ARG1	no
+4	tower	ARGM-LOC	O	ARG1	Movement/Stative Verbs for ARG1	ARG1	no
+5	Mourhead	ARGM-LOC	O	ARG1	Movement/Stative Verbs for ARG1	ARG1	no
+6	state	ARGM-LOC	ARG1	ARG1	Movement/Stative Verbs for ARG1	ARG1	no
+7	hours	ARG2	ARG1	ARG1	Movement/Stative Verbs for ARG1	ARG1	no
+8	park	ARGM-DIR	O	ARG1	Movement/Stative Verbs for ARG1	ARG1	no
+1	They	ARG1	O	ARG1	Involuntary Experience/Change Intransitive Verbs for ARG1	ARG1	no
+2	I	ARG1	ARG1	ARG1	Involuntary Experience/Change Intransitive Verbs for ARG1	ARG1	no
+3	She	ARG1	ARG1	ARG1	Involuntary Experience/Change Intransitive Verbs for ARG1	ARG1	no
+4	I	ARG0	O	ARG1	Involuntary Experience/Change Intransitive Verbs for ARG1	ARG1	no
+5	They	ARG1	O	ARG1	Involuntary Experience/Change Intransitive Verbs for ARG1	ARG1	no
+6	She	ARG0	O	ARG1	Involuntary Experience/Change Intransitive Verbs for ARG1	ARG1	no
+7	He	ARG1	O	ARG1	Involuntary Experience/Change Intransitive Verbs for ARG1	ARG1	no
+8	They	ARG0	ARG1	ARG1	Involuntary Experience/Change Intransitive Verbs for ARG1	ARG1	no
+9	He	ARG1	ARG1	ARG1	Involuntary Experience/Change Intransitive Verbs for ARG1	ARG1	no
+10	son	ARG1	ARG1	ARG1	Involuntary Experience/Change Intransitive Verbs for ARG1	ARG1	no
+1	book	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+2	seat	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+3	photo	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+4	postcard	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+5	documents	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+6	ball	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+7	keys	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+8	glass	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+9	report	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+10	contract	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+11	book	ARG1	ARG1	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+12	photo	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+13	postcard	ARG1	ARG1	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+14	documents	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+15	keys	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+16	glass	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+17	report	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+18	contract	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+19	butter	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+20	window	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+21	system	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+22	product	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+23	window	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+24	system	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+25	cities	ARGM-DIR	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+26	I	ARG0	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+27	She	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+28	He	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no
+29	son	ARG1	O	ARG1	Robustness: spelling errors in the predicate + ARG1	ARG1	no

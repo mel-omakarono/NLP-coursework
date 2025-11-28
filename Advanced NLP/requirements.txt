@@ -1,0 +1,10 @@
+pandas
+spacy
+benepar
+scikit-learn
+networkx
+nltk
+datasets
+evaluate
+torch
+transformers

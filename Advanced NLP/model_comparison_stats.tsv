@@ -1,0 +1,10 @@
+capability	checked_arg	num_instances	num_logreg_incorrect	num_bert_incorrect	logreg_failure_rate	bert_failure_rate
+Dative Alternation for ARG1	ARG1 and PP	13	3	1	23.08	7.69
+Dative Alternation for ARG1	ARG1 and Dative	13	4	0	30.77	0.0
+Dative Alternation for ARG2	ARG2-PP	13	6	0	46.15	0.0
+Dative Alternation for ARG2	ARG2-Dative	13	9	1	69.23	7.69
+Causative-Incohative Alternation ARG1	Causative-ARG1	9	5	0	55.56	0.0
+Causative-Incohative Alternation ARG1	Inchoative-ARG1	9	7	0	77.78	0.0
+Movement/Stative Verbs for ARG1	ARG1	8	5	7	62.5	87.5
+Involuntary Experience/Change Intransitive Verbs for ARG1	ARG1	10	5	3	50.0	30.0
+Robustness: spelling errors in the predicate + ARG1	ARG1	29	27	2	93.1	6.9
