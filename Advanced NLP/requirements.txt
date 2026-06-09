@@ -1,9 +1,7 @@
-spacy
-en-core-web-md
-benepar
-scikit-learn
-nltk
-networkx
-matplotlib
-tqdm
+datasets
+evaluate
+pandas
 numpy
+transformers
+matplotlib
+scikit-learn
