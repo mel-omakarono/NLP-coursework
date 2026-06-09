@@ -1,0 +1,10 @@
+pprint
+networkx
+benepar
+pandas
+scikit-learn
+matplotlib
+sklearn-crfsuite
+spacy
+nltk
+en-core-web-md
