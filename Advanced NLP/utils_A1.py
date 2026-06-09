@@ -272,7 +272,7 @@ def extract_features_from_dataframe(df):
     df['chosen_predicate'] = df['chosen_predicate'].astype(int)
 
     # progress bar
-    # pbar = tqdm(total=total_tokens, desc="Processing Tokens", unit="token", leave=True, dynamic_ncols=True, position=0)
+    pbar = tqdm(total=total_tokens, desc="Processing Tokens", unit="token", leave=True, dynamic_ncols=True, position=0)
     
     for sentence_num, sentence in df.groupby('sentence_num', sort=False):
         sentence_feats = []
@@ -315,8 +315,8 @@ def extract_features_from_dataframe(df):
             sentence_feats.append(feature_dict)
 
         df_features.extend(sentence_feats)
-        # pbar.update(len(sentence))
+        pbar.update(len(sentence))
 
-    # pbar.close()
+    pbar.close()
     
     return df_features

@@ -1,10 +1,9 @@
-pandas
 spacy
+en-core-web-md
 benepar
 scikit-learn
-networkx
 nltk
-datasets
-evaluate
-torch
-transformers
+networkx
+matplotlib
+tqdm
+numpy
